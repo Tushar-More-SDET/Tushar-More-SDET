@@ -1,9 +1,9 @@
-![logo](https://github.com/Tushar-More-SDET/full-stack-qa/blob/main/MicrosoftTeams-image%20(11).png)
+![logo](https://github.com/Tushar-More-SDET/Tushar-More-SDET/blob/main/Banner.gif)
 
 <h1 align="center">Greetings...! I'am Tushar More</h1>
 <h3 align="center">A Passionate Full Stack QA Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
+<img align="right" alt="coding" width="400" height="350" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-more-sdet&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-more-sdet" /> </p>
 
